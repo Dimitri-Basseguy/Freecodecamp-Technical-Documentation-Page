@@ -3,7 +3,7 @@
 
 ## About The Project
 
-![screen-shot](https://github.com/Dimitri-Basseguy/Freecodecamp-product-landing-page/blob/master/BuildaProductLandingPage.jpeg)
+![screen-shot](https://github.com/Dimitri-Basseguy/Freecodecamp-Technical-Documentation-Page/blob/master/technical-doc.jpeg)
 
 Mon test FreecodeCamp Responsive Web Design Projects - Build a Technical Documentation Page
 
@@ -58,7 +58,7 @@ You can grab this code, and try yourself.
 
 Basseguy Dimitri - [@twitter.com/Kulexus](https://twitter.com/Kulexus) - dimitri.basseguy@gmail.com
 
-Project Link: [https://github.com/Dimitri-Basseguy/Freecodecamp-Survey-Form](https://github.com/Dimitri-Basseguy/Freecodecamp-Survey-Form)
+Project Link: [https://github.com/Dimitri-Basseguy/Freecodecamp-Technical-Documentation-Page](https://github.com/Dimitri-Basseguy/Freecodecamp-Technical-Documentation-Page)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
