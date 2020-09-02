@@ -3,7 +3,7 @@
 
 ## About The Project
 
-![screen-shot](https://github.com/Dimitri-Basseguy/Freecodecamp-Technical-Documentation-Page/blob/master/technical-doc.jpeg)
+![screen-shot](https://github.com/Dimitri-Basseguy/Freecodecamp-Technical-Documentation-Page/blob/master/technical-doc2.jpg)
 
 Mon test FreecodeCamp Responsive Web Design Projects - Build a Technical Documentation Page
 
